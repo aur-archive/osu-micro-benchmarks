@@ -1,0 +1,77 @@
+2014-11-03 Jason St. John <jstjohn .. purdue . edu>
+
+	* 4.4.1-1:
+	-- Version bump from 4.4 to 4.4.1
+
+2014-08-28 Jason St. John <jstjohn .. purdue . edu>
+
+	* 4.4-1:
+	-- Version bump from 4.3.1 to 4.4
+
+2014-07-09 Jason St. John <jstjohn .. purdue . edu>
+
+	* 4.3.1-1:
+	-- Version bump from 4.3 to 4.3.1
+	-- Fix broken link to README in the PKGBUILD
+	-- Remove unnecessary optdepends
+
+2014-04-12 Jason St. John <jstjohn .. purdue . edu>
+
+	* 4.3-1:
+	-- Version bump from 4.2 to 4.3
+	-- Added check() function to the PKGBUILD
+
+2013-11-18 Jason St. John <jstjohn .. purdue . edu>
+
+	* 4.2-1:
+	-- Version bump from 4.0.1 to 4.2
+	-- Replaced OpenMPI dependency with MVAPICH2
+	-- Replaced 'cuda-toolkit' with 'cuda' in depends/optdepends
+	-- Added --libexecdir option to configure
+	-- Fixed configure command for compiling with CUDA support
+	-- Added comments to the PKGBUILD explaining CUDA support
+
+2013-05-13 Jason St. John <jstjohn .. purdue . edu>
+
+	* 4.0.1-1:
+	-- Version bump from 4.0 to 4.0.1
+
+2013-04-23 Jason St. John <jstjohn .. purdue . edu>
+
+	* 4.0-1:
+	-- Version bump from 3.9 to 4.0
+
+2013-03-04 Jason St. John <jstjohn .. purdue . edu>
+
+	* 3.9-1:
+	-- Version bump from 3.8 to 3.9
+
+2012-11-14 Jason St. John <jstjohn .. purdue . edu>
+
+	* 3.8-1:
+	-- Version bump from 3.7 to 3.8
+
+2012-09-10 Jason St. John <jstjohn .. purdue . edu>
+
+	* 3.7-1:
+	-- Version bump from 3.6 to 3.7
+
+2012-05-08 Jason St. John <jstjohn .. purdue . edu>
+
+	* 3.6-1:
+	-- Version bump from 3.5.2 to 3.6
+
+2012-03-25 Jason St. John <jstjohn .. purdue . edu>
+
+	* 3.5.2-1:
+	-- Version bump from 3.5.1 to 3.5.2
+
+2012-02-06 Jason St. John <jstjohn .. purdue . edu>
+
+	* 3.5.1-1 :
+	-- Version bump from 3.5 to 3.5.1
+
+2011-12-15 Jason St. John <jstjohn .. purdue . edu>
+
+	* 3.5-1 :
+	-- First submission to the AUR
